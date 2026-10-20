@@ -1,6 +1,6 @@
 cask "mouselock" do
-  version "0.2.3"
-  sha256 "af1a8a5940841865a87ccfcda8d4c4725757c00abe52a7d260e8ce3c76ea46c4"
+  version "0.2.4"
+  sha256 "6b531be06e38daf0ca6704e008d31b701667693d1a052c91aa2d3f31c8726dd5"
 
   url "https://github.com/mwolf-net/mouselock/releases/download/v#{version}/MouseLock-#{version}.zip"
   name "MouseLock"
