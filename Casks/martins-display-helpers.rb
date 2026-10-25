@@ -1,6 +1,6 @@
 cask "martins-display-helpers" do
-  version "0.11.0"
-  sha256 "dd131a4eb4072209ca0af702c67fe26c9c90bb80e0ef08da6d6cd078bf889389"
+  version "0.12.0"
+  sha256 "3505d44f2f87115e67278595e020db74a45c881c5c15dde9114ff16cb66189f5"
 
   url "https://github.com/mwolf-net/MartinsDisplayHelpers/releases/download/v#{version}/MartinsDisplayHelpers-#{version}.zip"
   name "Martin's Display Helpers"
